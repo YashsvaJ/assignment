@@ -13,4 +13,4 @@ if variable[0]['GroupId'] != "sg-06cebf98426df3cea":
     print "The security group sucessfully changed"
 else:
     print "The security group is already attached"
-    exit()
+#    exit()
